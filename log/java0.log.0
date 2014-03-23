@@ -1,0 +1,20 @@
+2013/8/28 上午 11:22:25 l1j.server.Config load
+資訊: loading gameserver config
+2013/8/28 上午 11:22:26 l1j.server.Config_Einhasad load
+資訊: Reading Config for Einhasad...
+2013/8/28 上午 11:22:26 l1j.server.server.IdFactory loadState
+資訊: 目前的物件ID: 285352775
+2013/8/28 上午 11:22:35 l1j.server.server.ClientThread run
+資訊: (127.0.0.1) 連結到伺服器。
+2013/8/28 上午 11:22:37 l1j.server.server.ClientThread run
+資訊: (null:127.0.0.1)連線終止。
+2013/8/28 上午 11:22:40 l1j.server.server.ClientThread run
+資訊: (127.0.0.1) 連結到伺服器。
+2013/8/28 上午 11:22:48 l1j.server.server.clientpackets.C_LoginToServer <init>
+資訊: 角色登入到伺服器中: char=Feena account=jcfate host=127.0.0.1
+2013/8/28 上午 11:23:00 l1j.server.server.GMCommands executeDatabaseCommand
+資訊: Feena使用 .find golden wing的指令。
+2013/8/28 上午 11:23:05 l1j.server.server.GMCommands executeDatabaseCommand
+資訊: Feena使用 .item 20049 1 100的指令。
+2013/8/28 上午 11:23:29 l1j.server.server.ClientThread run
+資訊: (jcfate:127.0.0.1)連線終止。
